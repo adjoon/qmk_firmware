@@ -1,0 +1,16 @@
+{
+    "keyboard": "gboards/gergo",
+    "keymap": "ardux",
+    "layout": "LAYOUT_ardux_wrapper",
+    "layers": [
+        [ "ARDUX_BIG_LAYER_BASE" ],
+        [ "ARDUX_BIG_LAYER_NUM" ],
+        [ "ARDUX_BIG_LAYER_SYM" ],
+        [ "ARDUX_BIG_LAYER_PAR" ],
+        [ "ARDUX_BIG_LAYER_NAV" ],
+        [ "ARDUX_BIG_LAYER_CUS" ],
+        [ "ARDUX_BIG_LAYER_MSE" ],
+        [ "ARDUX_BIG_LAYER_BIG_SYM" ],
+        [ "ARDUX_BIG_LAYER_BIG_FUN" ]
+    ]
+}
